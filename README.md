@@ -9,6 +9,7 @@ Recursos Principais:
 🎨 Design Atraente: Estilização cuidadosa com CSS para criar uma interface agradável e de fácil utilização.
 
 Tecnologias Utilizadas:
+
 🖥️ HTML5:
 
 🎨 CSS3:
