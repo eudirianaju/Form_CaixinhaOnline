@@ -18,6 +18,7 @@ Tecnologias Utilizadas:
 Contato:
 Para sugestões, dúvidas ou colaborações, sinta-se à vontade para entrar em contato através do email 📧 [nunesmeloanajulia@gmail.com].
 
-![screencapture-127-0-0-1-5500-Notas-register-validation-index-html-2023-10-30-17_52_39](https://github.com/eudirianaju/Form_CaixinhaOnline/assets/100884185/f186d1bf-a140-439e-aaee-0028c7005ba5)
 ![screencapture-127-0-0-1-5500-Notas-register-validation-index-html-2023-10-30-17_52_19](https://github.com/eudirianaju/Form_CaixinhaOnline/assets/100884185/3b08a796-8fa8-4019-b7d2-04c31a33aed9)
+![screencapture-127-0-0-1-5500-Notas-register-validation-index-html-2023-10-30-17_52_39](https://github.com/eudirianaju/Form_CaixinhaOnline/assets/100884185/f186d1bf-a140-439e-aaee-0028c7005ba5)
+
 
