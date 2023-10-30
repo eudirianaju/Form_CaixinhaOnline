@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+
+    <title>CaixinhaBancaria-registro</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="direita">
+
+
+      <img src="images/logo.jpg">
+      <header>Bem vindo!</header>
+      <h1>Registre-se para começar uma nova <br> caixinha para planos futuros!</h1>
+      <form action="#">
+        <div class="field email-field">
+          <div class="input-field">
+            <input type="email" placeholder="Digite seu e-mail" class="email" />
+          </div>
+          <span class="error email-error">
+            <i class="bx bx-error-circle error-icon"></i>
+            <p class="error-text">Por favor digite um email válido</p>
+          </span>
+        </div>
+        <div class="field create-password">
+          <div class="input-field">
+            <input
+              type="password"
+              placeholder="Criar senha"
+              class="password"
+            />
+            <i class="bx bx-hide show-hide"></i>
+          </div>
+          <span class="error password-error">
+            <i class="bx bx-error-circle error-icon"></i>
+            <p class="error-text">
+              Insira pelo menos 8 caracteres com número, símbolo, letra minúscula e maiúscula.
+            </p>
+          </span>
+        </div>
+        <div class="field confirm-password">
+          <div class="input-field">
+            <input
+              type="password"
+              placeholder="Confirme sua senha"
+              class="cPassword"
+            />
+            <i class="bx bx-hide show-hide"></i>
+          </div>
+          <span class="error cPassword-error">
+            <i class="bx bx-error-circle error-icon"></i>
+            <p class="error-text">A senha não corresponde</p>
+          </span>
+        </div>
+        <div class="input-field button">
+          <input type="submit" value="Enviar" />
+        </div>
+      </form>
+
+    </div>
+
+
+    </div>
+  
+    <script src="./script.js"></script>
+  </body>
+</html>
