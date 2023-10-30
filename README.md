@@ -1,7 +1,9 @@
 💼 Caixinha Bancária Online: Site de Registro para Economia de Dinheiro 💰🐖
+
 Este é um projeto fictício de uma tela de registro para uma caixinha/porquinho de dinheiro online. Foi desenvolvido com o objetivo de aprimorar minhas habilidades de validação de formulários, utilizando HTML, CSS e JavaScript.
 
 Recursos Principais:
+
 ✏️ Formulário de Registro: Implementação de um formulário intuitivo para o usuário cadastrar informações necessárias.
 
 🔒 Validações Avançadas: Utilização de JavaScript para aplicar validações de dados em tempo real, garantindo que as entradas sejam corretas e seguras.
